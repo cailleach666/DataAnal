@@ -1,0 +1,42 @@
+﻿,"piimad, keefirid",jogurtid,juustud,"kohupiimad, kodujuustud","kohvivalgendajad, kondenspiimad","koored, kreemid",joogipulbrid,karastusjoogid,"kontsentraadid, siirupid",mahlad,toonikud,veed,munad,pudingud,"Piimatooted, munad",Joogid
+rõõskpiim,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+hapupiim,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+hapupiimatooted,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+keefir,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+kiles,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+maitsestamata jogurtid,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+pures,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+topsijogurtid,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+delikatessjuustud,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+feta juustud,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+hallitusjuustud,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+kõvad juustud,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+riivitud juustud,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+sulatatud juustud,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+toorjuustud,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+kodujuustud,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+kohukesed,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+kohupiimakreemid,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+kohupiimamass,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+kohupiimapastad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+dipikastmed,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+hapukoor,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+rõõskkoor,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+toidukreemid,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+pudingud,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+munad,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+kaljapulber,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+lahustuvad joogipulbrid,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+toniseerivad joogipulbrid,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+alkoholita siidrid,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+jääteed,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+kaljad,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+limonaadid,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+mahlajoogid,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+nektarid,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+täismahlad,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+"kohvivalgendajad, kondenspiimad",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+"kontsentraadid, siirupid",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+toonikud,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+gaseeritud,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+gaseerimata,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1

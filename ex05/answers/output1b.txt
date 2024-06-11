@@ -1,0 +1,8 @@
+0.5 <- pant (10.8374, 81.8182)
+Pant <- Karastusjoogid (13.3005, 88.8889)
+valmistoidud <- Pakendatud (10.8374, 100)
+Pakendatud <- valmistoidud (11.8227, 91.6667)
+margariinid <- Võid (11.33, 100)
+Võid <- margariinid (11.8227, 95.8333)
+Külmutatud <- pooltooted (13.7931, 100)
+pooltooted <- Külmutatud (14.2857, 96.5517)

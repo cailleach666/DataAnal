@@ -1,0 +1,1059 @@
+[
+    {
+        "ehitis": {
+            "ehitiseKujud": {
+                "ruumikuju": [
+                    {
+                        "oper": "A",
+                        "adobId": "10346858",
+                        "adsOid": "EE03707047",
+                        "nahtus": "HOONE",
+                        "adsLiik": "EE",
+                        "ehit_id": "29288217",
+                        "ehrKood": "120847090",
+                        "kujuJnr": "1",
+                        "nimetus": "Ridaelamu",
+                        "pindala": "352.2",
+                        "geometry": {
+                            "type": "Polygon",
+                            "coordinates": [
+                                [
+                                    [
+                                        545740.52,
+                                        6583312.48
+                                    ],
+                                    [
+                                        545740.52,
+                                        6583323.14
+                                    ],
+                                    [
+                                        545711.42,
+                                        6583323.14
+                                    ],
+                                    [
+                                        545711.43,
+                                        6583312.48
+                                    ],
+                                    [
+                                        545711.43,
+                                        6583311.03
+                                    ],
+                                    [
+                                        545740.52,
+                                        6583311.04
+                                    ],
+                                    [
+                                        545740.52,
+                                        6583312.48
+                                    ]
+                                ]
+                            ]
+                        },
+                        "gis_kood": null,
+                        "kuju_liik": null,
+                        "nahtusTxt": "hoone",
+                        "mkm_joonis": null,
+                        "nliik_kood": null,
+                        "geometryTxt": "Geomeetria punktid on geomeetria objektis",
+                        "lahiaadress": "Karusambla tee 1/4",
+                        "taisaadress": "Harju maakond, Rae vald, J\u00e4rvek\u00fcla, Karusambla tee 1/4",
+                        "viitepunktX": "545725.97",
+                        "viitepunktY": "6583317.09",
+                        "date_updated": "2022-05-28T06:23:03.727",
+                        "geom_updated": "2021-06-09T04:01:05.000",
+                        "geometryType": "Geomeetria t\u00fc\u00fcp on geomeetria objektis",
+                        "ads_esitamine": null,
+                        "hoone_kuju_id": "26156400",
+                        "tyhistatud_kp": null,
+                        "geometryTypeTxt": "Geomeetria t\u00fc\u00fcp on geomeetria objektis",
+                        "sissepaasu_punkt": null,
+                        "kujuMoodustusviis": "K",
+                        "sissepaasupunktid": {
+                            "sissepaasupunkt": [
+                                {
+                                    "id": "22931210",
+                                    "nimi": "arvutatud kuju keskmesse",
+                                    "oper": "A",
+                                    "kuju_id": "26156400",
+                                    "geometry": {
+                                        "type": "Point",
+                                        "coordinates": [
+                                            545726.23,
+                                            6583317.23
+                                        ]
+                                    },
+                                    "date_created": "2022-05-28T06:23:03.727",
+                                    "date_updated": "2022-05-28T06:23:03.727",
+                                    "viitepunkt_x": "6583317.23",
+                                    "viitepunkt_y": "545726.23",
+                                    "moodustusviis": "A",
+                                    "eh_sp_punkt_id": "457688"
+                                }
+                            ]
+                        },
+                        "ehitiseKujuAadressid": {
+                            "aadress": [
+                                {
+                                    "id": "28945756",
+                                    "olek": "K",
+                                    "oper": "A",
+                                    "adrId": "3429060",
+                                    "tekst": null,
+                                    "aadr_id": "5730119",
+                                    "kuju_id": "26156400",
+                                    "olekTxt": "kehtiv",
+                                    "tase1_id": "37",
+                                    "tase2_id": "653",
+                                    "tase3_id": "7435143",
+                                    "tase4_id": null,
+                                    "tase5_id": "7446335",
+                                    "tase6_id": null,
+                                    "tase7_id": "7860978",
+                                    "tase8_id": null,
+                                    "tase1_kood": "37",
+                                    "tase2_kood": "653",
+                                    "koodaadress": "37653235300000PTC0000C0JS00000000",
+                                    "lahiaadress": "Karusambla tee 1/4",
+                                    "taisaadress": "Harju maakond, Rae vald, J\u00e4rvek\u00fcla, Karusambla tee 1/4",
+                                    "tase1_nimetus": "Harju maakond",
+                                    "tase2_nimetus": "Rae vald",
+                                    "tase3_nimetus": "J\u00e4rvek\u00fcla",
+                                    "tase4_nimetus": null,
+                                    "tase5_nimetus": "Karusambla tee",
+                                    "tase6_nimetus": null,
+                                    "tase7_nimetus": "1/4",
+                                    "tase8_nimetus": null,
+                                    "aadressTekstina": null
+                                }
+                            ]
+                        },
+                        "kujuMoodustusviisTxt": "kaardistatud"
+                    }
+                ]
+            },
+            "ehitiseAndmed": {
+                "url": "URL pole kasutusel",
+                "oper": "A",
+                "adsOid": "EE03707047",
+                "ehitId": "29288217",
+                "ehrKood": "120847090",
+                "nimetus": "Ridaelamu",
+                "seisund": "EHITIS_SEISUND_OLEMA",
+                "kaosKood": "11221",
+                "markused": null,
+                "kaosIdTxt": "Ridaelamu",
+                "seisundTxt": "Olemas",
+                "verTekkAeg": "2022-09-24T18:25:15.124",
+                "taisaadress": "Harju maakond, Rae vald, J\u00e4rvek\u00fcla, Karusambla tee 1/4",
+                "rajatisHoone": "H",
+                "esmaneKasutus": "2019",
+                "kaosIdPeamine": "11221",
+                "katastriyksused": "katastriuksused on eraldi plokis",
+                "rajatishoonetxt": "hoone"
+            },
+            "ehitiseKehand": {
+                "kehand": [
+                    {
+                        "tekkeviis": "P",
+                        "kehandOper": "A",
+                        "ehitiseOsad": {
+                            "ehitiseOsa": [
+                                {
+                                    "id": "21359935",
+                                    "liik": "K",
+                                    "tahis": "1",
+                                    "adsOid": "ER03707051",
+                                    "aadress": {
+                                        "id": "28238650",
+                                        "olek": "K",
+                                        "oper": "A",
+                                        "tekst": null,
+                                        "aadr_id": "5730123",
+                                        "ehos_id": "21359935",
+                                        "kuju_id": null,
+                                        "olekTxt": "kehtiv",
+                                        "tase1_id": "37",
+                                        "tase2_id": "653",
+                                        "tase3_id": "7435143",
+                                        "tase4_id": null,
+                                        "tase5_id": "7446335",
+                                        "tase6_id": null,
+                                        "tase7_id": "7860978",
+                                        "tase8_id": "8335715",
+                                        "ads_adr_id": "3429064",
+                                        "tase1_kood": "37",
+                                        "tase2_kood": "653",
+                                        "koodaadress": "37653235300000PTC0000C0JSJQN80000",
+                                        "lahiaadress": "Karusambla tee 1/4-1",
+                                        "taisaadress": "Harju maakond, Rae vald, J\u00e4rvek\u00fcla, Karusambla tee 1/4-1",
+                                        "tase1_nimetus": "Harju maakond",
+                                        "tase2_nimetus": "Rae vald",
+                                        "tase3_nimetus": "J\u00e4rvek\u00fcla",
+                                        "tase4_nimetus": null,
+                                        "tase5_nimetus": "Karusambla tee",
+                                        "tase6_nimetus": null,
+                                        "tase7_nimetus": "1/4",
+                                        "tase8_nimetus": "1"
+                                    },
+                                    "adob_id": "9613816",
+                                    "ehrKood": "120847090-3042941",
+                                    "liikTxt": "Korter",
+                                    "nimetus": null,
+                                    "osaOper": "A",
+                                    "spun_id": "22931210",
+                                    "markused": null,
+                                    "osa_kood": "3042941",
+                                    "dokumendil": "J",
+                                    "osaUpdated": "2022-05-28T06:23:03.727",
+                                    "ads_esitamine": null,
+                                    "ehitiseOsaPohiandmed": {
+                                        "pind": "118.7",
+                                        "kooginish": "1",
+                                        "tubadeArv": "5",
+                                        "koetavPind": "118.7",
+                                        "valipindadePind": "6.1",
+                                        "sissepaasuKorrus": "1"
+                                    },
+                                    "ehitiseOsaTehnilisedNaitajad": {
+                                        "tehnilineNaitaja": [
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "10",
+                                                "klKood": "TEHNO_WC",
+                                                "tenaId": "2002",
+                                                "ehos_id": "21359935",
+                                                "nimetus": "vesiklosett",
+                                                "klNimetus": "Info tualettide kohta",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "20",
+                                                "klKood": "TEHNO_OPESU",
+                                                "tenaId": "1203",
+                                                "ehos_id": "21359935",
+                                                "nimetus": "vann/du\u0161\u0161",
+                                                "klNimetus": "Info pesemisv\u00f5imaluse kohta",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "40",
+                                                "klKood": "TEHNO_SOOJAVLIIK",
+                                                "tenaId": "2405",
+                                                "ehos_id": "21359935",
+                                                "nimetus": "kohtk\u00fcte",
+                                                "klNimetus": "Soojusvarustuse liik",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "50",
+                                                "klKood": "TEHNO_SOOJUSA",
+                                                "tenaId": "2507",
+                                                "ehos_id": "21359935",
+                                                "nimetus": "ahi, kamin, pliit",
+                                                "klNimetus": "Soojusallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "60",
+                                                "klKood": "TEHNO_ENERGIA",
+                                                "tenaId": "2606",
+                                                "ehos_id": "21359935",
+                                                "nimetus": "tahke (puit, turvas, brikett, puitgraanul, saepuru vmt)",
+                                                "klNimetus": "Energiaallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "60",
+                                                "klKood": "TEHNO_ENERGIA",
+                                                "tenaId": "2604",
+                                                "ehos_id": "21359935",
+                                                "nimetus": "k\u00fcttegaas, v\u00f5rk",
+                                                "klNimetus": "Energiaallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "30",
+                                                "klKood": "TEHNO_GAASIPAIGALDIS",
+                                                "tenaId": "2902",
+                                                "ehos_id": "21359935",
+                                                "nimetus": "olemas",
+                                                "klNimetus": "Gaasipaigaldise olemasolu",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "50",
+                                                "klKood": "TEHNO_SOOJUSA",
+                                                "tenaId": "2503",
+                                                "ehos_id": "21359935",
+                                                "nimetus": "katel",
+                                                "klNimetus": "Soojusallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "20",
+                                                "klKood": "TEHNO_OPESU",
+                                                "tenaId": "1204",
+                                                "ehos_id": "21359935",
+                                                "nimetus": "saun",
+                                                "klNimetus": "Info pesemisv\u00f5imaluse kohta",
+                                                "lisavaartus": null
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "21359936",
+                                    "liik": "K",
+                                    "tahis": "3",
+                                    "adsOid": "ER03707050",
+                                    "aadress": {
+                                        "id": "28439945",
+                                        "olek": "K",
+                                        "oper": "A",
+                                        "tekst": null,
+                                        "aadr_id": "5730122",
+                                        "ehos_id": "21359936",
+                                        "kuju_id": null,
+                                        "olekTxt": "kehtiv",
+                                        "tase1_id": "37",
+                                        "tase2_id": "653",
+                                        "tase3_id": "7435143",
+                                        "tase4_id": null,
+                                        "tase5_id": "7446335",
+                                        "tase6_id": null,
+                                        "tase7_id": "7860978",
+                                        "tase8_id": "8330554",
+                                        "ads_adr_id": "3429063",
+                                        "tase1_kood": "37",
+                                        "tase2_kood": "653",
+                                        "koodaadress": "37653235300000PTC0000C0JSJQN70000",
+                                        "lahiaadress": "Karusambla tee 1/4-3",
+                                        "taisaadress": "Harju maakond, Rae vald, J\u00e4rvek\u00fcla, Karusambla tee 1/4-3",
+                                        "tase1_nimetus": "Harju maakond",
+                                        "tase2_nimetus": "Rae vald",
+                                        "tase3_nimetus": "J\u00e4rvek\u00fcla",
+                                        "tase4_nimetus": null,
+                                        "tase5_nimetus": "Karusambla tee",
+                                        "tase6_nimetus": null,
+                                        "tase7_nimetus": "1/4",
+                                        "tase8_nimetus": "3"
+                                    },
+                                    "adob_id": "9613815",
+                                    "ehrKood": "120847090-3042943",
+                                    "liikTxt": "Korter",
+                                    "nimetus": null,
+                                    "osaOper": "A",
+                                    "spun_id": "22931210",
+                                    "markused": null,
+                                    "osa_kood": "3042943",
+                                    "dokumendil": "J",
+                                    "osaUpdated": "2022-05-28T06:23:03.727",
+                                    "ads_esitamine": null,
+                                    "ehitiseOsaPohiandmed": {
+                                        "pind": "118.7",
+                                        "kooginish": "1",
+                                        "tubadeArv": "5",
+                                        "koetavPind": "118.7",
+                                        "valipindadePind": "5.1",
+                                        "sissepaasuKorrus": "1"
+                                    },
+                                    "ehitiseOsaTehnilisedNaitajad": {
+                                        "tehnilineNaitaja": [
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "10",
+                                                "klKood": "TEHNO_WC",
+                                                "tenaId": "2002",
+                                                "ehos_id": "21359936",
+                                                "nimetus": "vesiklosett",
+                                                "klNimetus": "Info tualettide kohta",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "20",
+                                                "klKood": "TEHNO_OPESU",
+                                                "tenaId": "1203",
+                                                "ehos_id": "21359936",
+                                                "nimetus": "vann/du\u0161\u0161",
+                                                "klNimetus": "Info pesemisv\u00f5imaluse kohta",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "40",
+                                                "klKood": "TEHNO_SOOJAVLIIK",
+                                                "tenaId": "2405",
+                                                "ehos_id": "21359936",
+                                                "nimetus": "kohtk\u00fcte",
+                                                "klNimetus": "Soojusvarustuse liik",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "50",
+                                                "klKood": "TEHNO_SOOJUSA",
+                                                "tenaId": "2507",
+                                                "ehos_id": "21359936",
+                                                "nimetus": "ahi, kamin, pliit",
+                                                "klNimetus": "Soojusallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "50",
+                                                "klKood": "TEHNO_SOOJUSA",
+                                                "tenaId": "2503",
+                                                "ehos_id": "21359936",
+                                                "nimetus": "katel",
+                                                "klNimetus": "Soojusallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "60",
+                                                "klKood": "TEHNO_ENERGIA",
+                                                "tenaId": "2604",
+                                                "ehos_id": "21359936",
+                                                "nimetus": "k\u00fcttegaas, v\u00f5rk",
+                                                "klNimetus": "Energiaallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "30",
+                                                "klKood": "TEHNO_GAASIPAIGALDIS",
+                                                "tenaId": "2902",
+                                                "ehos_id": "21359936",
+                                                "nimetus": "olemas",
+                                                "klNimetus": "Gaasipaigaldise olemasolu",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "60",
+                                                "klKood": "TEHNO_ENERGIA",
+                                                "tenaId": "2606",
+                                                "ehos_id": "21359936",
+                                                "nimetus": "tahke (puit, turvas, brikett, puitgraanul, saepuru vmt)",
+                                                "klNimetus": "Energiaallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "20",
+                                                "klKood": "TEHNO_OPESU",
+                                                "tenaId": "1204",
+                                                "ehos_id": "21359936",
+                                                "nimetus": "saun",
+                                                "klNimetus": "Info pesemisv\u00f5imaluse kohta",
+                                                "lisavaartus": null
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "21359937",
+                                    "liik": "K",
+                                    "tahis": "4",
+                                    "adsOid": "ER03707049",
+                                    "aadress": {
+                                        "id": "28051403",
+                                        "olek": "K",
+                                        "oper": "A",
+                                        "tekst": null,
+                                        "aadr_id": "5730121",
+                                        "ehos_id": "21359937",
+                                        "kuju_id": null,
+                                        "olekTxt": "kehtiv",
+                                        "tase1_id": "37",
+                                        "tase2_id": "653",
+                                        "tase3_id": "7435143",
+                                        "tase4_id": null,
+                                        "tase5_id": "7446335",
+                                        "tase6_id": null,
+                                        "tase7_id": "7860978",
+                                        "tase8_id": "8334625",
+                                        "ads_adr_id": "3429062",
+                                        "tase1_kood": "37",
+                                        "tase2_kood": "653",
+                                        "koodaadress": "37653235300000PTC0000C0JSJQN60000",
+                                        "lahiaadress": "Karusambla tee 1/4-4",
+                                        "taisaadress": "Harju maakond, Rae vald, J\u00e4rvek\u00fcla, Karusambla tee 1/4-4",
+                                        "tase1_nimetus": "Harju maakond",
+                                        "tase2_nimetus": "Rae vald",
+                                        "tase3_nimetus": "J\u00e4rvek\u00fcla",
+                                        "tase4_nimetus": null,
+                                        "tase5_nimetus": "Karusambla tee",
+                                        "tase6_nimetus": null,
+                                        "tase7_nimetus": "1/4",
+                                        "tase8_nimetus": "4"
+                                    },
+                                    "adob_id": "9613814",
+                                    "ehrKood": "120847090-3042944",
+                                    "liikTxt": "Korter",
+                                    "nimetus": null,
+                                    "osaOper": "A",
+                                    "spun_id": "22931210",
+                                    "markused": null,
+                                    "osa_kood": "3042944",
+                                    "dokumendil": "J",
+                                    "osaUpdated": "2022-05-28T06:23:03.727",
+                                    "ads_esitamine": null,
+                                    "ehitiseOsaPohiandmed": {
+                                        "pind": "118.7",
+                                        "kooginish": "1",
+                                        "tubadeArv": "5",
+                                        "koetavPind": "118.7",
+                                        "valipindadePind": "6.8",
+                                        "sissepaasuKorrus": "1"
+                                    },
+                                    "ehitiseOsaTehnilisedNaitajad": {
+                                        "tehnilineNaitaja": [
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "10",
+                                                "klKood": "TEHNO_WC",
+                                                "tenaId": "2002",
+                                                "ehos_id": "21359937",
+                                                "nimetus": "vesiklosett",
+                                                "klNimetus": "Info tualettide kohta",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "20",
+                                                "klKood": "TEHNO_OPESU",
+                                                "tenaId": "1203",
+                                                "ehos_id": "21359937",
+                                                "nimetus": "vann/du\u0161\u0161",
+                                                "klNimetus": "Info pesemisv\u00f5imaluse kohta",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "40",
+                                                "klKood": "TEHNO_SOOJAVLIIK",
+                                                "tenaId": "2405",
+                                                "ehos_id": "21359937",
+                                                "nimetus": "kohtk\u00fcte",
+                                                "klNimetus": "Soojusvarustuse liik",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "50",
+                                                "klKood": "TEHNO_SOOJUSA",
+                                                "tenaId": "2507",
+                                                "ehos_id": "21359937",
+                                                "nimetus": "ahi, kamin, pliit",
+                                                "klNimetus": "Soojusallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "50",
+                                                "klKood": "TEHNO_SOOJUSA",
+                                                "tenaId": "2503",
+                                                "ehos_id": "21359937",
+                                                "nimetus": "katel",
+                                                "klNimetus": "Soojusallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "60",
+                                                "klKood": "TEHNO_ENERGIA",
+                                                "tenaId": "2604",
+                                                "ehos_id": "21359937",
+                                                "nimetus": "k\u00fcttegaas, v\u00f5rk",
+                                                "klNimetus": "Energiaallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "30",
+                                                "klKood": "TEHNO_GAASIPAIGALDIS",
+                                                "tenaId": "2902",
+                                                "ehos_id": "21359937",
+                                                "nimetus": "olemas",
+                                                "klNimetus": "Gaasipaigaldise olemasolu",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "60",
+                                                "klKood": "TEHNO_ENERGIA",
+                                                "tenaId": "2606",
+                                                "ehos_id": "21359937",
+                                                "nimetus": "tahke (puit, turvas, brikett, puitgraanul, saepuru vmt)",
+                                                "klNimetus": "Energiaallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "20",
+                                                "klKood": "TEHNO_OPESU",
+                                                "tenaId": "1204",
+                                                "ehos_id": "21359937",
+                                                "nimetus": "saun",
+                                                "klNimetus": "Info pesemisv\u00f5imaluse kohta",
+                                                "lisavaartus": null
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "21359938",
+                                    "liik": "K",
+                                    "tahis": "2",
+                                    "adsOid": "ER03707048",
+                                    "aadress": {
+                                        "id": "28459661",
+                                        "olek": "K",
+                                        "oper": "A",
+                                        "tekst": null,
+                                        "aadr_id": "5730120",
+                                        "ehos_id": "21359938",
+                                        "kuju_id": null,
+                                        "olekTxt": "kehtiv",
+                                        "tase1_id": "37",
+                                        "tase2_id": "653",
+                                        "tase3_id": "7435143",
+                                        "tase4_id": null,
+                                        "tase5_id": "7446335",
+                                        "tase6_id": null,
+                                        "tase7_id": "7860978",
+                                        "tase8_id": "8322387",
+                                        "ads_adr_id": "3429061",
+                                        "tase1_kood": "37",
+                                        "tase2_kood": "653",
+                                        "koodaadress": "37653235300000PTC0000C0JSJQN50000",
+                                        "lahiaadress": "Karusambla tee 1/4-2",
+                                        "taisaadress": "Harju maakond, Rae vald, J\u00e4rvek\u00fcla, Karusambla tee 1/4-2",
+                                        "tase1_nimetus": "Harju maakond",
+                                        "tase2_nimetus": "Rae vald",
+                                        "tase3_nimetus": "J\u00e4rvek\u00fcla",
+                                        "tase4_nimetus": null,
+                                        "tase5_nimetus": "Karusambla tee",
+                                        "tase6_nimetus": null,
+                                        "tase7_nimetus": "1/4",
+                                        "tase8_nimetus": "2"
+                                    },
+                                    "adob_id": "9613813",
+                                    "ehrKood": "120847090-3042942",
+                                    "liikTxt": "Korter",
+                                    "nimetus": null,
+                                    "osaOper": "A",
+                                    "spun_id": "22931210",
+                                    "markused": null,
+                                    "osa_kood": "3042942",
+                                    "dokumendil": "J",
+                                    "osaUpdated": "2022-05-28T06:23:03.727",
+                                    "ads_esitamine": null,
+                                    "ehitiseOsaPohiandmed": {
+                                        "pind": "118.7",
+                                        "kooginish": "1",
+                                        "tubadeArv": "5",
+                                        "koetavPind": "118.7",
+                                        "valipindadePind": "5.1",
+                                        "sissepaasuKorrus": "1"
+                                    },
+                                    "ehitiseOsaTehnilisedNaitajad": {
+                                        "tehnilineNaitaja": [
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "10",
+                                                "klKood": "TEHNO_WC",
+                                                "tenaId": "2002",
+                                                "ehos_id": "21359938",
+                                                "nimetus": "vesiklosett",
+                                                "klNimetus": "Info tualettide kohta",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "20",
+                                                "klKood": "TEHNO_OPESU",
+                                                "tenaId": "1203",
+                                                "ehos_id": "21359938",
+                                                "nimetus": "vann/du\u0161\u0161",
+                                                "klNimetus": "Info pesemisv\u00f5imaluse kohta",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "30",
+                                                "klKood": "TEHNO_GAASIPAIGALDIS",
+                                                "tenaId": "2902",
+                                                "ehos_id": "21359938",
+                                                "nimetus": "olemas",
+                                                "klNimetus": "Gaasipaigaldise olemasolu",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "50",
+                                                "klKood": "TEHNO_SOOJUSA",
+                                                "tenaId": "2507",
+                                                "ehos_id": "21359938",
+                                                "nimetus": "ahi, kamin, pliit",
+                                                "klNimetus": "Soojusallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "50",
+                                                "klKood": "TEHNO_SOOJUSA",
+                                                "tenaId": "2503",
+                                                "ehos_id": "21359938",
+                                                "nimetus": "katel",
+                                                "klNimetus": "Soojusallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "60",
+                                                "klKood": "TEHNO_ENERGIA",
+                                                "tenaId": "2606",
+                                                "ehos_id": "21359938",
+                                                "nimetus": "tahke (puit, turvas, brikett, puitgraanul, saepuru vmt)",
+                                                "klNimetus": "Energiaallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "40",
+                                                "klKood": "TEHNO_SOOJAVLIIK",
+                                                "tenaId": "2405",
+                                                "ehos_id": "21359938",
+                                                "nimetus": "kohtk\u00fcte",
+                                                "klNimetus": "Soojusvarustuse liik",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "60",
+                                                "klKood": "TEHNO_ENERGIA",
+                                                "tenaId": "2604",
+                                                "ehos_id": "21359938",
+                                                "nimetus": "k\u00fcttegaas, v\u00f5rk",
+                                                "klNimetus": "Energiaallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "20",
+                                                "klKood": "TEHNO_OPESU",
+                                                "tenaId": "1204",
+                                                "ehos_id": "21359938",
+                                                "nimetus": "saun",
+                                                "klNimetus": "Info pesemisv\u00f5imaluse kohta",
+                                                "lisavaartus": null
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        },
+                        "hoone_kuju_id": "26156400",
+                        "kehandUpdated": "2022-05-28T06:23:03.727",
+                        "esmane_kasutus": "2019",
+                        "do_ehitis_kehand_id": "9431687"
+                    }
+                ]
+            },
+            "ehitiseAadressid": {
+                "aadress": [
+                    {
+                        "oper": "A",
+                        "adrId": "3429060",
+                        "olekviit": {
+                            "olek": "K",
+                            "olekTxt": "kehtiv"
+                        },
+                        "koodaadress": "37653235300000PTC0000C0JS00000000",
+                        "lahiaadress": "Karusambla tee 1/4",
+                        "taisaadress": "Harju maakond, Rae vald, J\u00e4rvek\u00fcla, Karusambla tee 1/4",
+                        "aadressTekstina": null
+                    }
+                ]
+            },
+            "ehitisePohiandmed": {
+                "lift": "0",
+                "maht": "1840.0",
+                "laius": "11.4",
+                "korgus": "7.2",
+                "pikkus": "37.7",
+                "maakond": "37",
+                "sygavus": "1.2",
+                "kinavald": null,
+                "ehAlustKp": null,
+                "mahtBruto": "2194.2",
+                "oletuslik": "0",
+                "abs0Korgus": "44.5",
+                "koetavPind": "474.8",
+                "omandiLiik": "EHITIS_OMANDI_LIIK_KINNIS",
+                "omavalitsus": "653",
+                "kavKasutusKp": null,
+                "omandiLiikTxt": "kinnisasi",
+                "vetteEhitatud": null,
+                "yldkasut_pind": "0.0",
+                "abiruumidePind": "0.0",
+                "ajehKasutalgKp": null,
+                "maxKorrusteArv": "2",
+                "ajehKasutloppKp": null,
+                "ehitisalunePind": "433.1",
+                "suletud_netopind": "474.8",
+                "soltumatuVallasAsi": null,
+                "maaalusteKorrusteArv": "0",
+                "ehitisaluneMaapealnePind": "433.1"
+            },
+            "ehitiseEnergiamargised": {
+                "energiamargis": []
+            },
+            "ehitiseKatastriyksused": {
+                "ehitiseKatastriyksus": [
+                    {
+                        "id": "27250835",
+                        "olek": "K",
+                        "oper": "A",
+                        "adob_id": 6402943,
+                        "ads_oid": "CU03367066",
+                        "kayk_id": "3652240",
+                        "kontrKp": null,
+                        "lahiaadress": "Karusambla tee 1",
+                        "taisaadress": "Harju maakond, Rae vald, J\u00e4rvek\u00fcla, Karusambla tee 1",
+                        "katastritunnus": "65301:001:3397",
+                        "seostamiseViis": "K"
+                    }
+                ]
+            },
+            "ehitiseKasutusotstarbed": {
+                "kasutusotstarve": [
+                    {
+                        "oper": "A",
+                        "kaosId": "11221",
+                        "ehos_id": null,
+                        "kaosKood": "11221",
+                        "kaosIdTxt": "Ridaelamu",
+                        "eluruumidePind": "474.8",
+                        "mitteeluruumidePind": null
+                    }
+                ]
+            },
+            "ehitiseTehnilisedNaitajad": {
+                "tehnilineNaitaja": [
+                    {
+                        "oper": "A",
+                        "jrkNr": "4",
+                        "klKood": "KONS_VSEIN",
+                        "tenaId": "508",
+                        "nimetus": "v\u00e4ike- v\u00f5i suurplokk (vaht, mull, kergkruus, k\u00e4rg, betoon jms)",
+                        "klNimetus": "V\u00e4lisseina liik",
+                        "eh_tehna_id": null,
+                        "lisavaartus": null
+                    },
+                    {
+                        "oper": "A",
+                        "jrkNr": "60",
+                        "klKood": "TEHNO_ENERGIA",
+                        "tenaId": "2606",
+                        "nimetus": "tahke (puit, turvas, brikett, puitgraanul, saepuru vmt)",
+                        "klNimetus": "Energiaallikas",
+                        "eh_tehna_id": null,
+                        "lisavaartus": null
+                    },
+                    {
+                        "oper": "A",
+                        "jrkNr": "0",
+                        "klKood": "KONS_VUND",
+                        "tenaId": "103",
+                        "nimetus": "madalvundament",
+                        "klNimetus": "Vundamendi liik",
+                        "eh_tehna_id": null,
+                        "lisavaartus": null
+                    },
+                    {
+                        "oper": "A",
+                        "jrkNr": "70",
+                        "klKood": "TEHNO_VENT",
+                        "tenaId": "2705",
+                        "nimetus": "sundsissepuhe ja -v\u00e4ljat\u00f5mme",
+                        "klNimetus": "Ventilatsiooni liik",
+                        "eh_tehna_id": null,
+                        "lisavaartus": null
+                    },
+                    {
+                        "oper": "A",
+                        "jrkNr": "3",
+                        "klKood": "KONS_VALISV",
+                        "tenaId": "709",
+                        "nimetus": "puit (vooder)",
+                        "klNimetus": "V\u00e4lisseina v\u00e4lisviimistluse materjal",
+                        "eh_tehna_id": null,
+                        "lisavaartus": null
+                    },
+                    {
+                        "oper": "A",
+                        "jrkNr": "80",
+                        "klKood": "TEHNO_JAHUTUS",
+                        "tenaId": "2801",
+                        "nimetus": "puudub",
+                        "klNimetus": "Jahutuss\u00fcsteemi liik",
+                        "eh_tehna_id": null,
+                        "lisavaartus": null
+                    },
+                    {
+                        "oper": "A",
+                        "jrkNr": "30",
+                        "klKood": "TEHNO_KANAL",
+                        "tenaId": "1403",
+                        "nimetus": "v\u00f5rk",
+                        "klNimetus": "Kanalisatsiooni liik",
+                        "eh_tehna_id": null,
+                        "lisavaartus": null
+                    },
+                    {
+                        "oper": "A",
+                        "jrkNr": "50",
+                        "klKood": "TEHNO_SOOJUSA",
+                        "tenaId": "2503",
+                        "nimetus": "katel",
+                        "klNimetus": "Soojusallikas",
+                        "eh_tehna_id": null,
+                        "lisavaartus": null
+                    },
+                    {
+                        "oper": "A",
+                        "jrkNr": "3",
+                        "klKood": "KONS_VALISV",
+                        "tenaId": "703",
+                        "nimetus": "krohv",
+                        "klNimetus": "V\u00e4lisseina v\u00e4lisviimistluse materjal",
+                        "eh_tehna_id": null,
+                        "lisavaartus": null
+                    },
+                    {
+                        "oper": "A",
+                        "jrkNr": "7",
+                        "klKood": "KONS_KATUS",
+                        "tenaId": "609",
+                        "nimetus": "bituumen v\u00f5i  PVC  plaat v\u00f5i rullmaterjal",
+                        "klNimetus": "Katusekatte materjal",
+                        "eh_tehna_id": null,
+                        "lisavaartus": null
+                    },
+                    {
+                        "oper": "A",
+                        "jrkNr": "90",
+                        "klKood": "TEHNO_GAAS",
+                        "tenaId": "1705",
+                        "nimetus": "olemas",
+                        "klNimetus": "V\u00f5rgu- v\u00f5i mahutigaasi olemasolu",
+                        "eh_tehna_id": null,
+                        "lisavaartus": null
+                    },
+                    {
+                        "oper": "A",
+                        "jrkNr": "6",
+                        "klKood": "KONS_VLAED",
+                        "tenaId": "406",
+                        "nimetus": "monteeritav raudbetoon",
+                        "klNimetus": "Vahelagede kandva osa materjal",
+                        "eh_tehna_id": null,
+                        "lisavaartus": null
+                    },
+                    {
+                        "oper": "A",
+                        "jrkNr": "50",
+                        "klKood": "TEHNO_SOOJUSA",
+                        "tenaId": "2507",
+                        "nimetus": "ahi, kamin, pliit",
+                        "klNimetus": "Soojusallikas",
+                        "eh_tehna_id": null,
+                        "lisavaartus": null
+                    },
+                    {
+                        "oper": "A",
+                        "jrkNr": "20",
+                        "klKood": "TEHNO_VESI",
+                        "tenaId": "1103",
+                        "nimetus": "v\u00f5rk",
+                        "klNimetus": "Veevarustuse liik",
+                        "eh_tehna_id": null,
+                        "lisavaartus": null
+                    },
+                    {
+                        "oper": "A",
+                        "jrkNr": "40",
+                        "klKood": "TEHNO_SOOJAVLIIK",
+                        "tenaId": "2405",
+                        "nimetus": "kohtk\u00fcte",
+                        "klNimetus": "Soojusvarustuse liik",
+                        "eh_tehna_id": null,
+                        "lisavaartus": null
+                    },
+                    {
+                        "oper": "A",
+                        "jrkNr": "10",
+                        "klKood": "TEHNO_ELEKLIIK",
+                        "tenaId": "2303",
+                        "nimetus": "v\u00f5rk",
+                        "klNimetus": "Elektris\u00fcsteemi liik",
+                        "eh_tehna_id": null,
+                        "lisavaartus": null
+                    },
+                    {
+                        "oper": "A",
+                        "jrkNr": "5",
+                        "klKood": "KONS_SARIKAD",
+                        "tenaId": "906",
+                        "nimetus": "monteeritav raudbetoon",
+                        "klNimetus": "Katuste ja katuselagede kandva osa materjal",
+                        "eh_tehna_id": null,
+                        "lisavaartus": null
+                    },
+                    {
+                        "oper": "A",
+                        "jrkNr": "1",
+                        "klKood": "KONS_KKONSTR",
+                        "tenaId": "213",
+                        "nimetus": "monteeritav raudbetoon",
+                        "klNimetus": "Kande- ja j\u00e4igastavate konstruktsioonide materjal",
+                        "eh_tehna_id": null,
+                        "lisavaartus": null
+                    },
+                    {
+                        "oper": "A",
+                        "jrkNr": "1",
+                        "klKood": "KONS_KKONSTR",
+                        "tenaId": "217",
+                        "nimetus": "v\u00e4ike- v\u00f5i suurplokk, n\u00e4iteks vaht, mull, kergkruus, k\u00e4rg, betoon",
+                        "klNimetus": "Kande- ja j\u00e4igastavate konstruktsioonide materjal",
+                        "eh_tehna_id": null,
+                        "lisavaartus": null
+                    },
+                    {
+                        "oper": "A",
+                        "jrkNr": "60",
+                        "klKood": "TEHNO_ENERGIA",
+                        "tenaId": "2604",
+                        "nimetus": "k\u00fcttegaas, v\u00f5rk",
+                        "klNimetus": "Energiaallikas",
+                        "eh_tehna_id": null,
+                        "lisavaartus": null
+                    }
+                ]
+            }
+        }
+    }
+]
